@@ -2,6 +2,8 @@
   "version": 1,
   "hairStyle": 15,
   "clothingStyle": 1,
+  "voiceStyle": 1,
+  "voicePitch": -0.7,
   "hairColor": "#262626",
   "eyeColor": "#562D0B",
   "skinColor": "#DB936F",
